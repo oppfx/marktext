@@ -84,6 +84,8 @@ This update **fixes a XSS security vulnerability** when exporting a document.
 - Fixed [...] is displayed in gray and orange (#432)
 - Fixed an issue that relative images are not loaded after closing a tab
 - Add symbolic link support
+- Fix renderer error when selection in sidebar (#625)
+
 
 ### 0.13.65
 
